@@ -56,7 +56,7 @@ The **native Android App of OpenClaw**, bringing vitality to silicon-based intel
 ## 📢 Community Discussion
 
 Welcome to join our **Discord community** for in-depth exchanges:  
-https://discord.gg/QTZXv5w2M
+https://discord.gg/dAbtHGAa
 
 ---
 
