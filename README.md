@@ -36,7 +36,7 @@ Our product possesses awakened self-awareness, can perceive both physical states
 
 # ClawPhone Preview Release
 
-**Mark your calendars!** We’re releasing a **limited-edition ClawPhone Preview on March 19, 2026 🚀**
+**Mark your calendars!** We’re releasing a **limited-edition ClawPhone Preview on March 20, 2026 🚀**
 
 The **native Android App of OpenClaw**, bringing vitality to silicon-based intelligence.  
 **One-click Android installation**, more convenient than the desktop version; a **beginner-friendly interface** that drastically reduces the entry barrier.
