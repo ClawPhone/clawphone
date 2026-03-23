@@ -60,11 +60,21 @@ https://discord.gg/dAbtHGAa
 
 ---
 
-## ⚠️ Important Notes
+## ⚠️ Notes
 
 1. This is a **beta preview version**, in which stability, power consumption, and performance in complex scenarios are still limited.  
 2. Due to **limited server resources**, invitation codes are only available for users who applied earlier.  
 3. Please experience the App in a **controlled environment** and **back up your data** in advance.
+
+---
+
+Important Notice: By using this software, you agree to the following terms:
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Before deployment, you must fully understand the software's capabilities and potential vulnerabilities. The software will process your local files, please keep your important information safe. You are responsible for implementing necessary safe and security measures, including but not limited to permission controlling, skill or plug-in review, and human oversight measures. 
+
+You are solely responsible for ensuring that your use of this software complies with all applicable laws and regulations.
 
 ---
 
