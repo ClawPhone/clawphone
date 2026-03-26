@@ -46,7 +46,7 @@ The **native Android App of OpenClaw**, bringing vitality to silicon-based intel
 ## ✨ How to Get the App
 
 1. **Obtain the Invitation Code**  
-   Follow this account, then like, repost, or comment. Send your **X ID** to **hellowonderlandteam@gmail.com** via your personal email, and you'll have the chance to receive the invitation code via email.
+   Follow @clawPhone on X/twitter like, repost, or comment.Then send your **X ID** to **hellowonderlandteam@gmail.com** via your personal email, and you'll have the chance to receive the invitation code via email.
 
 2. **Download the App**  
    https://github.com/ClawPhone/clawphone/releases/
