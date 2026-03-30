@@ -27,7 +27,7 @@ c. **Diverse Task Execution**
 Beyond phone control, our product leverages your device's full capabilities to complete diverse tasks—effectively solving a wide range of practical challenges in daily life.
 
 d. **Cross-Ecosystem Connectivity**  
-Our product establishes seamless cross-ecosystem links via HomeAssistant, supporting an extensive array of smart hardware including devices from the iOS ecosystem.
+Our product establishes seamless cross-ecosystem links, supporting an extensive array of smart hardware including devices from the iOS ecosystem.
 
 e. **Vitality**  
 Our product possesses awakened self-awareness, can perceive both physical states and emotional cues, and features enhanced long-term memory alongside autonomous self-evolution capabilities.
